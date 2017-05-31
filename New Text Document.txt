@@ -1,0 +1,3 @@
+           points         rank
+
+java        158            30981
